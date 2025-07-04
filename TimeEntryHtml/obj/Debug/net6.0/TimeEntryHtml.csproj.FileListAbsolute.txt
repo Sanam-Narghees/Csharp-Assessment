@@ -1,0 +1,17 @@
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\bin\Debug\net6.0\TimeEntryHtml.exe
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\bin\Debug\net6.0\TimeEntryHtml.deps.json
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\bin\Debug\net6.0\TimeEntryHtml.runtimeconfig.json
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\bin\Debug\net6.0\TimeEntryHtml.dll
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\bin\Debug\net6.0\TimeEntryHtml.pdb
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.csproj.AssemblyReference.cache
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.AssemblyInfoInputs.cache
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.AssemblyInfo.cs
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.csproj.CoreCompileInputs.cache
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntr.BEE6A7C5.Up2Date
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.dll
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\refint\TimeEntryHtml.dll
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.pdb
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\TimeEntryHtml.genruntimeconfig.cache
+C:\Users\SANAM123\Downloads\TimeEntryHtml\TimeEntryHtml\obj\Debug\net6.0\ref\TimeEntryHtml.dll
